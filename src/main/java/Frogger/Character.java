@@ -15,7 +15,7 @@ public abstract class Character {
     protected String marker;
     /** Represents the amount of turns elapsed. */
     protected int turns;
-    /** Represetns how long between active turns. */
+    /** Represents how long between active turns. */
     protected int turnInterval;
 
     /**
